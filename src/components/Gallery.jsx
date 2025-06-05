@@ -7,7 +7,7 @@ const galleryData = [
     id: 1,
     title: 'Food App',
     category: 'React.js',
-    image: '/images/f1.png',
+    image: './images/f1.png',
     giturl:'https://amjadqanou.github.io/foodapp/',
     whatview:'viewLive'
 
@@ -17,7 +17,7 @@ const galleryData = [
     id: 2,
     title: 'tractors shop',
     category: 'React.js',
-    image: '/images/t1.png',
+    image: './images/t1.png',
     giturl:'https://amjadqanou.github.io/tractors/',
     whatview:'viewLive'
 
@@ -26,7 +26,7 @@ const galleryData = [
     id: 3,
     title: 'Movies App',
     category: 'Html/Js',
-    image: '/images/m1.png',
+    image: './images/m1.png',
     giturl:'https://github.com/AmjadQanou/Movies',
 
     whatview:'viewCode'

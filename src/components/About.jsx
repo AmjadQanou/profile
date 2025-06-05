@@ -76,7 +76,7 @@ const About = ({ id,activeSection, setActiveSection }) => {
           <div className="image-container">
             <div className="glow-effect"></div>
             <div className="profile-image">
-                <img className='' src='/images/2.jpg'></img>
+                <img className='' src='./images/2.jpg'></img>
             </div>
           </div>
         </motion.div>

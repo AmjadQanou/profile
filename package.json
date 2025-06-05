@@ -1,5 +1,6 @@
 {
-  "name": "http://AmjadQanou.github.io/Profile",
+  "homepage": "https://AmjadQanou.github.io/profile",
+  "name": "profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
